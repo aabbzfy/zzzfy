@@ -1,0 +1,35 @@
+{
+    "name" : "uniapp_test",
+    "appid" : "",
+    "description" : "",
+    "versionName" : "1.0.23",
+    "versionCode" : 10023,
+    "uni-app-x" : {},
+    "quickapp" : {},
+    "mp-weixin" : {
+        "appid" : "",
+        "setting" : {
+            "urlCheck" : false
+        },
+        "usingComponents" : true
+    },
+    "mp-alipay" : {
+        "usingComponents" : true
+    },
+    "mp-baidu" : {
+        "usingComponents" : true
+    },
+    "mp-toutiao" : {
+        "usingComponents" : true
+    },
+    "uniStatistics" : {
+        "enable" : false
+    },
+    "app" : {},
+    "vueVersion" : "3",
+    "h5" : {
+        "router" : {
+            "base" : "/web/"
+        }
+    }
+}
